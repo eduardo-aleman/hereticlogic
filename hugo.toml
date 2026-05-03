@@ -37,3 +37,7 @@ title = 'Heretic Logic'
     name = "The Secular Mind"
     url = "/secular-mind/"
     weight = 5
+  [[menu.main]]
+    name = "Queer Studies"
+    url = "/queer-studies/"
+    weight = 6
