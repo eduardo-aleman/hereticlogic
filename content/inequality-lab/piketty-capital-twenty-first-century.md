@@ -3,6 +3,9 @@ title: "Capital in the Twenty-First Century"
 bookAuthor: "Thomas Piketty"
 publisher: "Harvard University Press"
 year: 2017
+translator: "Arthur Goldhammer"
+translatorPublisher: "Harvard University Press"
+translatorYear: 2014
 date: 2024-09-10
 tags: ["inequality", "capitalism", "political economy", "meritocracy", "ideology"]
 ---
