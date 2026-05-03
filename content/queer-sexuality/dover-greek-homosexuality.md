@@ -5,7 +5,7 @@ publisher: "Harvard University Press"
 year: 1978
 section: "queer-sexuality"
 slug: "dover-greek-homosexuality"
-date: 2026-05-02
+date: 2025-05-14
 tags:
   - dover
   - classical antiquity

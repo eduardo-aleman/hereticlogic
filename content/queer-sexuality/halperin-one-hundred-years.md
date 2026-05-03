@@ -5,7 +5,7 @@ publisher: "Routledge"
 year: 1990
 section: "queer-sexuality"
 slug: "halperin-one-hundred-years"
-date: 2026-05-02
+date: 2026-01-12
 tags:
   - halperin
   - classical antiquity

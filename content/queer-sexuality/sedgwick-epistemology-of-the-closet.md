@@ -5,7 +5,7 @@ publisher: "University of California Press"
 year: 1990
 section: "queer-sexuality"
 slug: "sedgwick-epistemology-of-the-closet"
-date: 2026-05-02
+date: 2025-05-25
 tags:
   - sedgwick
   - queer theory

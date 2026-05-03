@@ -5,7 +5,7 @@ publisher: "NYU Press"
 year: 2009
 section: "queer-sexuality"
 slug: "munoz-cruising-utopia"
-date: 2026-05-02
+date: 2025-07-09
 tags:
   - muñoz
   - queer theory

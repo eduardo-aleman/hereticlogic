@@ -5,7 +5,7 @@ publisher: "Harvard University Press"
 year: 2019
 section: "secular-mind"
 slug: "ryrie-unbelievers"
-date: 2026-04-23
+date: 2026-04-9
 tags:
   - ryrie
   - atheism
