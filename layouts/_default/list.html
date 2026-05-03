@@ -12,26 +12,13 @@
 </div>
 
 {{ if .RegularPages }}
-<div class="reviews-list">
-  {{ range .RegularPages.ByDate.Reverse }}
-  <article class="review-card">
-    <div class="review-card-meta">
-      {{ with .Params.bookAuthor }}<span class="book-author">{{ . }}</span>{{ end }}
-      {{ with .Date }}<time datetime="{{ .Format "2006-01-02" }}">{{ .Format "January 2006" }}</time>{{ end }}
-    </div>
-    <h2 class="review-card-title">
-      <a href="{{ .Permalink }}">{{ .Title }}</a>
-    </h2>
-    {{ with .Params.publisher }}
-    <p class="book-meta">{{ . }}{{ with $.Params.year }}, {{ . }}{{ end }}</p>
-    {{ end }}
-    {{ with .Summary }}
-    <p class="review-summary">{{ . }}</p>
-    {{ end }}
-    <a href="{{ .Permalink }}" class="read-more">Read full review →</a>
-  </article>
+<ul class="reviews-list">
+  {{ range .RegularPages.ByTitle }}
+  <li class="review-item">
+    <a href="{{ .Permalink }}">{{ .Title }}</a>
+  </li>
   {{ end }}
-</div>
+</ul>
 {{ else }}
 <div class="empty-section">
   <p>Reviews forthcoming.</p>
