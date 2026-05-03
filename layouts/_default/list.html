@@ -12,13 +12,13 @@
 </div>
 
 {{ if .RegularPages }}
-<ul class="reviews-list">
+<div class="reviews-list">
   {{ range .RegularPages.ByTitle }}
-  <li class="review-item">
-    <a href="{{ .Permalink }}">{{ .Title }}</a>
-  </li>
+  <p class="review-item">
+    {{ with .Params.bookAuthor }}<span class="cite-author">{{ . }}.</span> {{ end }}<a href="{{ .Permalink }}"><em>{{ .Title }}</em></a>{{ with .Params.publisher }}. {{ . }}{{ end }}{{ with .Params.year }}, {{ . }}{{ end }}.
+  </p>
   {{ end }}
-</ul>
+</div>
 {{ else }}
 <div class="empty-section">
   <p>Reviews forthcoming.</p>
