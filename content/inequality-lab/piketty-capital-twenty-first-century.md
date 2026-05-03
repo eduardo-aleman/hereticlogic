@@ -2,7 +2,7 @@
 title: "Capital in the Twenty-First Century"
 bookAuthor: "Thomas Piketty"
 publisher: "Harvard University Press"
-year: 2017
+year: 2014
 translator: "Arthur Goldhammer"
 translatorPublisher: "Harvard University Press"
 translatorYear: 2014
