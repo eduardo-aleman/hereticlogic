@@ -3,7 +3,9 @@ title: "Capital: A Critique of Political Economy, Volume I"
 bookAuthor: "Karl Marx"
 publisher: "Verlag von Otto Meissner"
 year: 1867
-translatorNote: "English translation by Ben Fowkes, Penguin/New Left Review, 1976"
+translator: "Ben Fowkes"
+translatorPublisher: "Penguin/New Left Review"
+translatorYear: 1976
 section: "inequality-lab"
 slug: "marx-capital-volume-1"
 date: 2024-11-09

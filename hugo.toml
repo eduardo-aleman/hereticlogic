@@ -10,6 +10,7 @@ title = 'Heretic Logic'
 [taxonomies]
   author = "authors"
   tag = "tags"
+  translator = "translators"
 
 [markup]
   [markup.goldmark]

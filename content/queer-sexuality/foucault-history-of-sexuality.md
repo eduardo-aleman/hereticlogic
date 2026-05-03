@@ -3,6 +3,7 @@ title: "The History of Sexuality, Volume 1: The Will to Knowledge"
 bookAuthor: "Michel Foucault"
 publisher: "Pantheon Books"
 year: 1978
+translator: "Robert Hurley"
 section: "queer-sexuality"
 slug: "foucault-history-of-sexuality"
 date: 2026-05-02

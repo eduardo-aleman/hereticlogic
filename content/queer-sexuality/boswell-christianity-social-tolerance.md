@@ -5,7 +5,7 @@ publisher: "University of Chicago Press"
 year: 1980
 section: "queer-sexuality"
 slug: "boswell-christianity-social-tolerance"
-date: 2026-02-02
+date: 2026-05-02
 tags:
   - boswell
   - sexuality
