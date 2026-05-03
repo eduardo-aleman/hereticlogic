@@ -1,6 +1,6 @@
 ---
 title: "The History of Sexuality, Volume 1: The Will to Knowledge"
-author: "Michel Foucault"
+bookAuthor: "Michel Foucault"
 publisher: "Pantheon Books"
 year: 1978
 section: "queer-sexuality"

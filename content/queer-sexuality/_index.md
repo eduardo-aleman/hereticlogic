@@ -11,3 +11,5 @@ primaryBooks:
   - "Sedgwick — Epistemology of the Closet"
   - "Muñoz — Cruising Utopia"
 ---
+The category of the normal in sexual life is recent, contested, and far from neutral. These books approach that category from several directions — historical, medical, theological, philosophical, and utopian — tracking how desire has been classified, condemned, pathologised, tolerated, and theorised across very different social worlds. The questions they raise are not only about sexuality: they are about how any society draws the line between the licit and the deviant, and who bears the cost of that line being drawn where it is.
+
