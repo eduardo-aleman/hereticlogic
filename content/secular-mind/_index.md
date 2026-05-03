@@ -5,7 +5,6 @@ description: "The long, uneven, and often suppressed history of religious scepti
 primaryBooks:
   - "Nixey — The Darkening Age"
   - "Ryrie — Unbelievers"
-  - "Whitmarsh — Battling the Gods"
   - "Jacoby — Freethinkers"
   - "Kneale — An Atheist's History of Belief"
 ---
