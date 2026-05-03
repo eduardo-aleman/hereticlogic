@@ -1,28 +1,25 @@
 {{ define "main" }}
-
 <div class="section-header">
-  <div class="breadcrumb"><a href="/">Heretic Logic</a></div>
-  <h1>{{ .Title }}</h1>
+<div class="breadcrumb"><a href="/">Heretic Logic</a></div>
+<h1>{{ .Title }}</h1>
   {{ with .Params.theme }}
-  <p class="section-theme-label">{{ . }}</p>
+<p class="section-theme-label">{{ . }}</p>
   {{ end }}
   {{ with .Content }}
-  <div class="section-intro">{{ . }}</div>
+<div class="section-intro">{{ . }}</div>
   {{ end }}
 </div>
-
 {{ if .RegularPages }}
 <div class="reviews-list">
   {{ range .RegularPages.ByTitle }}
-  <p class="review-item">
-    {{ with .Params.bookAuthor }}<span class="cite-author">{{ . }}.</span> {{ end }}<a href="{{ .Permalink }}"><em>{{ .Title }}</em></a>{{ with .Params.publisher }}. {{ . }}{{ end }}{{ with .Params.year }}, {{ . }}{{ end }}.
-  </p>
+<p class="review-item">
+    {{ with .Params.bookAuthor }}<span class="cite-author">{{ . }}.</span> {{ end }}<a href="{{ .Permalink }}"><em>{{ .Title }}</em></a>{{ with .Params.translator }}. Translated by {{ . }}{{ end }}{{ with .Params.publisher }}. {{ . }}{{ end }}{{ with .Params.year }}, {{ . }}{{ end }}.
+</p>
   {{ end }}
 </div>
 {{ else }}
 <div class="empty-section">
-  <p>Reviews forthcoming.</p>
+<p>Reviews forthcoming.</p>
 </div>
 {{ end }}
-
 {{ end }}
