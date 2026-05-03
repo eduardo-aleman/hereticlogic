@@ -5,7 +5,7 @@ publisher: "Pantheon Books"
 year: 1978
 section: "queer-sexuality"
 slug: "foucault-history-of-sexuality"
-date_reviewed: 2026-05-02
+date: 2026-05-02
 tags:
   - foucault
   - sexuality
@@ -16,14 +16,6 @@ tags:
   - identity
   - 19th century
 ---
-
-# The History of Sexuality, Volume 1: The Will to Knowledge
-
-Michel Foucault
-
-Pantheon Books, 1978 (French original: 1976)
-
-*Reviewed May 2, 2026*
 
 The standard account of sexuality and modernity runs something like this: the Victorian age repressed sex, confined it to the private, the marital, and the reproductive, and twentieth-century liberation gradually undid this suppression. Foucault's opening move is to identify this story not as a historical finding but as an ideological posture — one that flatters its tellers and obscures how modern societies actually operate. What he offers in its place is one of the most structurally original arguments in twentieth-century social thought, and one that bears harder scrutiny than it typically receives.
 
