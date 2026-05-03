@@ -1,6 +1,6 @@
 ---
 title: "Heretic Logic"
-description: "Critical reviews of books on power, inequality, history, and ideas."
+description: "Critical reviews of books on power, inequality, history, sexuality, and ideas."
 ---
 
 ## What is this?
