@@ -1,0 +1,36 @@
+{{ define "main" }}
+
+<section class="hero">
+  <div class="hero-text">
+    {{ .Content }}
+  </div>
+</section>
+
+<section class="sections-grid">
+  <h2 class="grid-heading">Reading Sections</h2>
+  <div class="grid">
+    {{ range site.Sections }}
+    <article class="section-card">
+      <div class="section-card-inner">
+        <h3 class="section-card-title">
+          <a href="{{ .Permalink }}">{{ .Title }}</a>
+        </h3>
+        {{ with .Params.theme }}
+        <p class="section-card-theme">{{ . }}</p>
+        {{ end }}
+        {{ with .Params.primaryBooks }}
+        <ul class="section-card-books">
+          {{ range . }}<li>{{ . }}</li>{{ end }}
+        </ul>
+        {{ end }}
+        <div class="section-card-footer">
+          <span class="review-count">{{ len .RegularPages }} review{{ if ne (len .RegularPages) 1 }}s{{ end }}</span>
+          <a href="{{ .Permalink }}" class="section-link">Explore →</a>
+        </div>
+      </div>
+    </article>
+    {{ end }}
+  </div>
+</section>
+
+{{ end }}

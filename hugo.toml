@@ -1,0 +1,39 @@
+baseURL = 'https://hereticlogic.com/'
+languageCode = 'en-us'
+title = 'Heretic Logic'
+
+[params]
+  description = "Critical reviews of books on power, inequality, history, and ideas. Focused on the quality of arguments."
+  author = "Heretic Logic"
+  tagline = "Arguments examined. Logic tested."
+
+[taxonomies]
+  author = "authors"
+  tag = "tags"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[menu]
+  [[menu.main]]
+    name = "The Inequality Lab"
+    url = "/inequality-lab/"
+    weight = 1
+  [[menu.main]]
+    name = "Origins of Authority"
+    url = "/origins-of-authority/"
+    weight = 2
+  [[menu.main]]
+    name = "The Urban Future"
+    url = "/urban-future/"
+    weight = 3
+  [[menu.main]]
+    name = "Democratic Guardrails"
+    url = "/democratic-guardrails/"
+    weight = 4
+  [[menu.main]]
+    name = "The Secular Mind"
+    url = "/secular-mind/"
+    weight = 5

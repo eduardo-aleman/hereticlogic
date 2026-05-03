@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ site.Title }}</title>
+  <meta name="description" content="{{ with .Description }}{{ . }}{{ else }}{{ site.Params.description }}{{ end }}">
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header class="site-header">
+    <div class="container">
+      <div class="site-brand">
+        <a href="/" class="site-title">{{ site.Title }}</a>
+        <span class="site-tagline">{{ site.Params.tagline }}</span>
+      </div>
+      <nav class="site-nav" aria-label="Main navigation">
+        {{ range site.Menus.main }}
+        <a href="{{ .URL }}" class="nav-link{{ if eq $.RelPermalink .URL }} active{{ end }}">{{ .Name }}</a>
+        {{ end }}
+      </nav>
+    </div>
+  </header>
+
+  <main class="site-main">
+    <div class="container">
+      {{ block "main" . }}{{ end }}
+    </div>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>Reviews focused on the quality of arguments &mdash; not star ratings.</p>
+      <p class="footer-copy">&copy; {{ now.Year }} Heretic Logic</p>
+    </div>
+  </footer>
+
+</body>
+</html>

@@ -1,0 +1,48 @@
+{{ define "main" }}
+
+<article class="review-full">
+
+  <header class="review-full-header">
+    <div class="breadcrumb">
+      <a href="/">Heretic Logic</a> /
+      <a href="{{ .Parent.Permalink }}">{{ .Parent.Title }}</a>
+    </div>
+
+    <h1 class="review-full-title">{{ .Title }}</h1>
+
+    <div class="book-info">
+      {{ with .Params.bookAuthor }}
+      <p class="book-author-full">{{ . }}</p>
+      {{ end }}
+      {{ with .Params.publisher }}
+      <p class="book-publisher">
+        {{ . }}{{ with $.Params.year }}, {{ . }}{{ end }}
+      </p>
+      {{ end }}
+    </div>
+
+    <div class="review-byline">
+      <time datetime="{{ .Date.Format "2006-01-02" }}">
+        Reviewed {{ .Date.Format "January 2, 2006" }}
+      </time>
+    </div>
+  </header>
+
+  <div class="review-full-body">
+    {{ .Content }}
+  </div>
+
+  <footer class="review-full-footer">
+    {{ with .Params.tags }}
+    <div class="tags">
+      {{ range . }}
+      <a href="/tags/{{ . | urlize }}/" class="tag">{{ . }}</a>
+      {{ end }}
+    </div>
+    {{ end }}
+    <a href="{{ .Parent.Permalink }}" class="back-link">← Back to {{ .Parent.Title }}</a>
+  </footer>
+
+</article>
+
+{{ end }}
