@@ -5,7 +5,6 @@ publisher: "Faber & Faber"
 year: 2015
 date: 2024-09-10
 tags: ["religion", "antiquity", "political authority", "mythology", "secularism"]
-section: "Origins of Authority"
 ---
 
 > **Core:** Divine authority was not discovered but engineered — a technology of social control whose architects were often fully aware of the mechanism they were building.

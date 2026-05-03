@@ -5,7 +5,6 @@ publisher: "AK Press"
 year: 1982
 date: 2024-09-10
 tags: ["ecology", "anarchism", "hierarchy", "urbanism", "political philosophy"]
-section: "The Urban Future"
 ---
 
 > **Core:** The city is not the enemy of ecology — the *megalopolis* is. The properly scaled, confederally organized municipality is the only institution through which human second nature and ecological first nature can be reconciled without subordinating one to the other.
