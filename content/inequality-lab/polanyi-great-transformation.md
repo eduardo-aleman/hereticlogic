@@ -5,7 +5,7 @@ publisher: "Farrar & Rinehart"
 year: 1944
 section: "inequality-lab"
 slug: "polanyi-great-transformation"
-date: 2026-05-04
+date: 2026-05-01
 tags:
   - polanyi
   - capitalism
