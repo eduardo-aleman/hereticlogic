@@ -3,7 +3,6 @@ title: "The Inequality Lab"
 theme: "Wealth, Labour, and Capital"
 description: "Books on the political economy of inequality — how wealth concentrates, how labour is valued, and what capital actually does."
 primaryBooks:
-  - "Marx — Capital, Volume 1"
   - "Honneth — The Struggle for Recognition"
   - "Honneth — The Working Sovereign"
   - "Marx — Capital, Volume 1"
