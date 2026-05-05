@@ -5,7 +5,7 @@ publisher: "Northwestern University Press"
 year: 2019
 section: "secular-mind"
 slug: "cameron-black-freethinkers"
-date: 2026-05-12
+date: 2026-03-12
 tags:
   - cameron
   - atheism

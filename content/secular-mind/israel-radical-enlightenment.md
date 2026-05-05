@@ -5,7 +5,7 @@ publisher: "Oxford University Press"
 year: 2001
 section: "secular-mind"
 slug: "israel-radical-enlightenment"
-date: 2026-06-03
+date: 2026-03-03
 tags:
   - israel
   - enlightenment
