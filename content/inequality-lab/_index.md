@@ -8,6 +8,7 @@ primaryBooks:
   - "Marx — Capital, Volume 1"
   - "Piketty — Capital in the Twenty-First Century"
   - "Polanyi — The Great Transformation"
+  - "Sandel - What Money Can't Buy: The Moral Limits of Markets"
 ---
 
 How do societies generate and distribute wealth? These books examine the mechanisms of capital accumulation, the moral foundations of labour, and the long structural history of inequality. The focus is on argument quality: whether the causal claims hold, whether the evidence is adequate, and whether the normative conclusions follow from the analysis.
