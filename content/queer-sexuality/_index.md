@@ -8,6 +8,7 @@ primaryBooks:
   - "Foucault — The History of Sexuality"
   - "Halperin — One Hundred Years of Homosexuality"
   - "Krafft-Ebing — Psychopathia Sexualis"
+  - "Malcolm - Forbidden Desire in Early Modern Europe"
   - "Muñoz — Cruising Utopia"
   - "Sedgwick — Epistemology of the Closet"
 ---
