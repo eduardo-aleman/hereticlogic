@@ -309,14 +309,14 @@ body {
   align-items: flex-start;
   gap: var(--sp-lg);
   margin-bottom: var(--sp-lg);
+  padding-bottom: var(--sp-md);
+  border-bottom: 1px solid var(--border);
 }
 
 .section-header {
   flex: 1;
   min-width: 0;
   max-width: var(--measure);
-  padding-bottom: var(--sp-md);
-  border-bottom: 1px solid var(--border);
 }
 
 .breadcrumb {
