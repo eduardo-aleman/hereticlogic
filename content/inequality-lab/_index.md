@@ -1,6 +1,7 @@
 ---
 title: "The Inequality Lab"
 theme: "Wealth, Labour, and Capital"
+image: /inequality_lab.jpg
 description: "Books on the political economy of inequality — how wealth concentrates, how labour is valued, and what capital actually does."
 primaryBooks:
   - "Hirschman — The Passions and the Interests"
