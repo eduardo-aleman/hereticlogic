@@ -1,6 +1,7 @@
 ---
 title: "Origins of Authority"
 theme: "Debunking Myths of Kings and Gods"
+image: /origins_of_authority.jpg
 description: "How did power justify itself? These books examine the ideological and ritual foundations of kingship, divine authority, and political legitimacy."
 primaryBooks:
   - "Graeber & Sahlins — On Kings"

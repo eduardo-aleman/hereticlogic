@@ -1,6 +1,7 @@
 ---
 title: "The Urban Future"
 theme: "City-Building and Social Ecology"
+image: /urban_future.jpg
 description: "The city as a site of human possibility — and as the terrain on which ecological and political futures will be decided."
 primaryBooks:
   - "Bookchin — The Ecology of Freedom"

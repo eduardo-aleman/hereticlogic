@@ -1,6 +1,7 @@
 ---
 title: "Democratic Guardrails"
 theme: "Preventing Authoritarianism"
+image: /democratic_guardrails.jpg
 description: "How democracies erode, how they collapse, and what structural conditions make them resilient or fragile."
 primaryBooks:
   - "Levitsky & Ziblatt — How Democracies Die"

@@ -1,6 +1,7 @@
 ---
 title: "The Secular Mind"
 theme: "History of Doubt and Freethought"
+image: /secular_mind.jpg
 description: "The long, uneven, and often suppressed history of religious scepticism — from ancient Athens to the modern world."
 primaryBooks:
   - "Cameron — Black Freethinkers: A History of African American Secularism"
