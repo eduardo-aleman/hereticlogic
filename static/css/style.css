@@ -574,6 +574,21 @@ body {
   margin-top: var(--sp-xs);
 }
 
+.footer-links {
+  margin-top: var(--sp-xs);
+  color: #5a5450;
+}
+
+.site-footer a {
+  color: var(--footer-text);
+  text-decoration: none;
+  transition: color 0.15s;
+}
+
+.site-footer a:hover {
+  color: #ede9e1;
+}
+
 /* ============================================================
    Responsive
    ============================================================ */
