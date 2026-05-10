@@ -4,6 +4,7 @@ theme: "Preventing Authoritarianism"
 image: /democratic_guardrails.jpg
 description: "How democracies erode, how they collapse, and what structural conditions make them resilient or fragile."
 primaryBooks:
+  - "Lepore — These Truths: A History of the United States"
   - "Levitsky & Ziblatt — How Democracies Die"
   - "Walter — How Civil Wars Start"
   - "MacMillan — War: How Conflict Shaped Us"
