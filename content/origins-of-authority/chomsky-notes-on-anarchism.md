@@ -1,0 +1,217 @@
+---
+title: "Notes on Anarchism"
+bookAuthor: "Noam Chomsky"
+publisher: "Monthly Review Press"
+year: 1970
+section: "origins-of-authority"
+slug: "chomsky-notes-on-anarchism"
+date: 2026-05-10
+tags:
+  - chomsky
+  - anarchism
+  - libertarian socialism
+  - authority
+  - workers control
+  - enlightenment
+  - anarchosyndicalism
+  - bakunin
+  - spanish revolution
+---
+
+> **Core:** Authority is not self-legitimating. Every form of hierarchy, domination, and compulsion carries the burden of justifying itself against a strong presumption in favour of liberty — a presumption rooted not in abstract utopianism but in the classical liberal and Enlightenment tradition that capitalism and the state have successively betrayed. Anarchism, properly understood, is that tradition's most consistent heir.
+
+## The Normative Frame and Its Enlightenment Roots
+
+Chomsky's achievement in this short essay is to establish, with unusual clarity, the philosophical ground on which anarchist political thought stands — and to demonstrate that this ground is not exotic or utopian but continuous with the mainstream of Western liberal thought from Humboldt and Kant through Mill and Marx. The argument is precise: the anarchist does not begin from an abstract love of chaos or a romantic rejection of all organisation. She begins from the presumption that authority over other human beings requires justification, and that most actually existing authority — the authority of the capitalist over the worker, the state over the citizen, the bureaucracy over the producer — fails to meet that burden when seriously examined. This is not a radical starting point; it is the starting point of classical liberalism. What makes the anarchist position consistent, Chomsky argues, is the willingness to follow that premise wherever it leads — including into a critique of capitalist social relations that classical liberals, for reasons of class interest, declined to pursue.
+
+The essay recovers Humboldt's *Limits of State Action* as an unwitting manifesto for libertarian socialism: a text whose stated principles — that labour must be freely undertaken, that human development requires diversity and self-directed activity, that external compulsion stunts the faculties it purports to govern — cannot be contained within the liberal defence of private property once that defence is examined on its own terms. The same applies to Marx's early account of alienated labour, which Chomsky places in direct continuity with the anarchosyndicalist tradition rather than treating it as a divergence from it. The productive move is to show that the Marxist-anarchist dispute is not a dispute about fundamental values — both traditions inherit the same Enlightenment humanism — but about the theory of the state and the question of whether state power can serve as an instrument of emancipation or must, in all its forms, reproduce the domination it claims to overcome. On this question, Chomsky finds the anarchist position — anticipated in Bakunin's warnings about the "red bureaucracy" — substantially vindicated by the history of actually existing socialism.
+
+## What the Essay Does Not Attempt
+
+The limits of the text are, in significant part, the limits Chomsky himself marks out. He is explicit that anarchism, as he understands it, does not constitute "a specific and determinate theory of society and social change" — it is a disposition toward unjustified authority, a demand that hierarchy justify itself at each stage of historical development, rather than a blueprint for the society that would result from the removal of unjustified hierarchy. This intellectual modesty is appropriate given what Chomsky takes to be the rudimentary state of our understanding of human nature and viable social forms, but it leaves the essay's prescriptive horizon thin. The anarchosyndicalist programme — workers' control, the federated industrial organisation of society, the Spanish collectives of 1936 as the closest historical approximation — is sketched rather than argued, and the hard questions about coordination, scale, and the transition from here to there are acknowledged but not resolved.
+
+This is not a failing specific to Chomsky. It is the honest stopping point of a tradition that, as he notes, is stronger on diagnosis than prescription, stronger on the critique of actually existing authority than on the specification of what replaces it. Graeber and Wengrow, writing decades later, would provide the archaeological evidence that complex societies have organised themselves without hierarchical states — evidence that shores up the anthropological plausibility of the anarchist position without resolving the transition problem either. What Chomsky provides, and what the rest of the collection needs, is the normative argument for why the transition matters: not merely that hierarchy is contingent, as Graeber and Wengrow show, or that it has mythological origins, as Graeber and Sahlins demonstrate, but that contingent, mythologically sustained hierarchy that fails its burden of justification is — on premises the liberal tradition already accepts — illegitimate, and that its removal is not a utopian fantasy but an overdue accountability.
+
+## Verdict
+
+**A short text that does the philosophical work that longer texts in this tradition often evade: it states, with precision and without mystification, what the anarchist presumption against authority actually is and where it comes from.** Chomsky neither romanticises the tradition nor apologises for it; he reads it as a specific, historically situated, and ongoing attempt to hold power accountable to the principles it claims to embody. The essay is indispensable as the normative frame for this collection — without it, the anthropological and archaeological arguments of Graeber and his collaborators are intellectually interesting but politically unanchored. With it, the question shifts from "did hierarchy always exist?" to "what follows for those living under hierarchies that cannot justify themselves?" — which is the question that matters.
+
+---
+
+## Full Text
+
+*Notes on Anarchism* first appeared as the introduction to Daniel Guérin, *Anarchism: From Theory to Practice* (Monthly Review Press, 1970), and in a slightly different version in the *New York Review of Books*, May 21, 1970.
+
+---
+
+A French writer, sympathetic to anarchism, wrote in the 1890s that "anarchism has a broad back, like paper it endures anything" — including, he noted those whose acts are such that "a mortal enemy of anarchism could not have done better."¹ There have been many styles of thought and action that have been referred to as "anarchist." It would be hopeless to try to encompass all of these conflicting tendencies in some general theory or ideology. And even if we proceed to extract from the history of libertarian thought a living, evolving tradition, as Daniel Guérin does in *Anarchism*, it remains difficult to formulate its doctrines as a specific and determinate theory of society and social change. The anarchist historian Rudolph Rocker, who presents a systematic conception of the development of anarchist thought towards anarchosyndicalism, along lines that bear comparison to Guérin's work, puts the matter well when he writes that anarchism is not
+
+> a fixed, self-enclosed social system but rather a definite trend in the historic development of mankind, which, in contrast with the intellectual guardianship of all clerical and governmental institutions, strives for the free unhindered unfolding of all the individual and social forces in life. Even freedom is only a relative, not an absolute concept, since it tends constantly to become broader and to affect wider circles in more manifold ways. For the anarchist, freedom is not an abstract philosophical concept, but the vital concrete possibility for every human being to bring to full development all the powers, capacities, and talents with which nature has endowed him, and turn them to social account. The less this natural development of man is influenced by ecclesiastical or political guardianship, the more efficient and harmonious will human personality become, the more will it become the measure of the intellectual culture of the society in which it has grown.²
+
+One might ask what value there is in studying a "definite trend in the historic development of mankind" that does not articulate a specific and detailed social theory. Indeed, many commentators dismiss anarchism as utopian, formless, primitive, or otherwise incompatible with the realities of a complex society. One might, however, argue rather differently: that at every stage of history our concern must be to dismantle those forms of authority and oppression that survive from an era when they might have been justified in terms of the need for security or survival or economic development, but that now contribute to — rather than alleviate — material and cultural deficit. If so, there will be no doctrine of social change fixed for the present and future, nor even, necessarily, a specific and unchanging concept of the goals towards which social change should tend. Surely our understanding of the nature of man or of the range of viable social forms is so rudimentary that any far-reaching doctrine must be treated with great skepticism, just as skepticism is in order when we hear that "human nature" or "the demands of efficiency" or "the complexity of modern life" requires this or that form of oppression and autocratic rule.
+
+Nevertheless, at a particular time there is every reason to develop, insofar as our understanding permits, a specific realization of this definite trend in the historic development of mankind, appropriate to the tasks of the moment. For Rocker, "the problem that is set for our time is that of freeing man from the curse of economic exploitation and political and social enslavement"; and the method is not the conquest and exercise of state power, nor stultifying parliamentarianism, but rather "to reconstruct the economic life of the peoples from the ground up and build it up in the spirit of Socialism."
+
+> But only the producers themselves are fitted for this task, since they are the only value-creating element in society out of which a new future can arise. Theirs must be the task of freeing labor from all the fetters which economic exploitation has fastened on it, of freeing society from all the institutions and procedure of political power, and of opening the way to an alliance of free groups of men and women based on co-operative labor and a planned administration of things in the interest of the community. To prepare the toiling masses in the city and country for this great goal and to bind them together as a militant force is the objective of modern Anarcho-syndicalism, and in this its whole purpose is exhausted. [P. 108]
+
+As a socialist, Rocker would take for granted "that the serious, final, complete liberation of the workers is possible only upon one condition: that of the appropriation of capital, that is, of raw material and all the tools of labor, including land, by the whole body of the workers."³ As an anarchosyndicalist, he insists, further, that the workers' organisations create "not only the ideas, but also the facts of the future itself" in the pre-revolutionary period, that they embody in themselves the structure of the future society — and he looks forward to a social revolution that will dismantle the state apparatus as well as expropriate the expropriators. "What we put in place of the government is industrial organization."
+
+> Anarcho-syndicalists are convinced that a Socialist economic order cannot be created by the decrees and statutes of a government, but only by the solidaric collaboration of the workers with hand and brain in each special branch of production; that is, through the taking over of the management of all plants by the producers themselves under such form that the separate groups, plants, and branches of industry are independent members of the general economic organism and systematically carry on production and the distribution of the products in the interest of the community on the basis of free mutual agreements. [p. 94]
+
+Rocker was writing at a moment when such ideas had been put into practice in a dramatic way in the Spanish Revolution. Just prior to the outbreak of the revolution, the anarchosyndicalist economist Diego Abad de Santillan had written:
+
+> …in facing the problem of social transformation, the Revolution cannot consider the state as a medium, but must depend on the organization of producers.
+>
+> We have followed this norm and we find no need for the hypothesis of a superior power to organized labor, in order to establish a new order of things. We would thank anyone to point out to us what function, if any, the State can have in an economic organization, where private property has been abolished and in which parasitism and special privilege have no place. The suppression of the State cannot be a languid affair; it must be the task of the Revolution to finish with the State. Either the Revolution gives social wealth to the producers in which case the producers organize themselves for due collective distribution and the State has nothing to do; or the Revolution does not give social wealth to the producers, in which case the Revolution has been a lie and the State would continue.
+>
+> Our federal council of economy is not a political power but an economic and administrative regulating power. It receives its orientation from below and operates in accordance with the resolutions of the regional and national assemblies. It is a liaison corps and nothing else.⁴
+
+Engels, in a letter of 1883, expressed his disagreement with this conception as follows:
+
+> The anarchists put the thing upside down. They declare that the proletarian revolution must begin by doing away with the political organization of the state….But to destroy it at such a moment would be to destroy the only organism by means of which the victorious proletariat can assert its newly-conquered power, hold down its capitalist adversaries, and carry out that economic revolution of society without which the whole victory must end in a new defeat and a mass slaughter of the workers similar to those after the Paris commune.⁵
+
+In contrast, the anarchists — most eloquently Bakunin — warned of the dangers of the "red bureaucracy," which would prove to be "the most vile and terrible lie that our century has created."⁶ The anarchosyndicalist Fernand Pelloutier asked: "Must even the transitory state to which we have to submit necessarily and fatally be a collectivist jail? Can't it consist in a free organization limited exclusively by the needs of production and consumption, all political institutions having disappeared?"⁷
+
+I do not pretend to know the answers to this question. But it seems clear that unless there is, in some form, a positive answer, the chances for a truly democratic revolution that will achieve the humanistic ideals of the left are not great. Martin Buber put the problem succinctly when he wrote: "One cannot in the nature of things expect a little tree that has been turned into a club to put forth leaves."⁸ The question of conquest or destruction of state power is what Bakunin regarded as the primary issue dividing him from Marx.⁹ In one form or another, the problem has arisen repeatedly in the century since, dividing "libertarian" from "authoritarian" socialists.
+
+Despite Bakunin's warnings about the red bureaucracy, and their fulfilment under Stalin's dictatorship, it would obviously be a gross error in interpreting the debates of a century ago to rely on the claims of contemporary social movements as to their historical origins. In particular, it is perverse to regard Bolshevism as "Marxism in practice." Rather, the left-wing critique of Bolshevism, taking account of the historical circumstances surrounding the Russian Revolution, is far more to the point.¹⁰
+
+> The anti-Bolshevik, left-wing labor movement opposed the Leninists because they did not go far enough in exploiting the Russian upheavals for strictly proletarian ends. They became prisoners of their environment and used the international radical movement to satisfy specifically Russian needs, which soon became synonymous with the needs of the Bolshevik Party-State. The "bourgeois" aspects of the Russian Revolution were now discovered in Bolshevism itself: Leninism was adjudged a part of international social-democracy, differing from the latter only on tactical issues.¹¹
+
+If one were to seek a single leading idea within the anarchist tradition, it should, I believe, be that expressed by Bakunin when, in writing on the Paris Commune, he identified himself as follows:
+
+> I am a fanatic lover of liberty, considering it as the unique condition under which intelligence, dignity and human happiness can develop and grow; not the purely formal liberty conceded, measured out and regulated by the State, an eternal lie which in reality represents nothing more than the privilege of some founded on the slavery of the rest; not the individualistic, egoistic, shabby, and fictitious liberty extolled by the School of J.-J. Rousseau and other schools of bourgeois liberalism, which considers the would-be rights of all men, represented by the State which limits the rights of each — an idea that leads inevitably to the reduction of the rights of each to zero. No, I mean the only kind of liberty that is worthy of the name, liberty that consists in the full development of all the material, intellectual and moral powers that are latent in each person; liberty that recognizes no restrictions other than those determined by the laws of our own individual nature, which cannot properly be regarded as restrictions since these laws are not imposed by any outside legislator beside or above us, but are immanent and inherent, forming the very basis of our material, intellectual and moral being — they do not limit us but are the real and immediate conditions of our freedom.¹²
+
+These ideas grew out of the Enlightenment; their roots are in Rousseau's *Discourse on Inequality*, Humboldt's *Limits of State Action*, Kant's insistence, in his defence of the French Revolution, that freedom is the precondition for acquiring the maturity for freedom, not a gift to be granted when such maturity is achieved. With the development of industrial capitalism, a new and unanticipated system of injustice, it is libertarian socialism that has preserved and extended the radical humanist message of the Enlightenment and the classical liberal ideals that were perverted into an ideology to sustain the emerging social order. In fact, on the very same assumptions that led classical liberalism to oppose the intervention of the state in social life, capitalist social relations are also intolerable. This is clear, for example, from the classic work of Humboldt, *The Limits of State Action*, which anticipated and perhaps inspired Mill. This classic of liberal thought, completed in 1792, is in its essence profoundly, though prematurely, anticapitalist. Its ideas must be attenuated beyond recognition to be transmuted into an ideology of industrial capitalism.
+
+Humboldt's vision of a society in which social fetters are replaced by social bonds and labour is freely undertaken suggests the early Marx, with his discussion of the "alienation of labor when work is external to the worker…not part of his nature…[so that] he does not fulfill himself in his work but denies himself…[and is] physically exhausted and mentally debased," alienated labour that "casts some of the workers back into a barbarous kind of work and turns others into machines," thus depriving man of his "species character" of "free conscious activity" and "productive life." Similarly, Marx conceives of "a new type of human being who needs his fellow men….[The workers' association becomes] the real constructive effort to create the social texture of future human relations."¹³ It is true that classical libertarian thought is opposed to state intervention in social life, as a consequence of deeper assumptions about the human need for liberty, diversity, and free association. On the same assumptions, capitalist relations of production, wage labour, competitiveness, the ideology of "possessive individualism" — all must be regarded as fundamentally antihuman. Libertarian socialism is properly to be regarded as the inheritor of the liberal ideals of the Enlightenment.
+
+Rudolf Rocker describes modern anarchism as "the confluence of the two great currents which during and since the French revolution have found such characteristic expression in the intellectual life of Europe: Socialism and Liberalism." The classical liberal ideals, he argues, were wrecked on the realities of capitalist economic forms. Anarchism is necessarily anticapitalist in that it "opposes the exploitation of man by man." But anarchism also opposes "the dominion of man over man." It insists that "socialism will be free or it will not be at all. In its recognition of this lies the genuine and profound justification for the existence of anarchism."¹⁴ From this point of view, anarchism may be regarded as the libertarian wing of socialism. It is in this spirit that Daniel Guérin has approached the study of anarchism in *Anarchism* and other works.¹⁵ Guérin quotes Adolph Fischer, who said that "every anarchist is a socialist but not every socialist is necessarily an anarchist." Similarly Bakunin, in his "anarchist manifesto" of 1865, the program of his projected international revolutionary fraternity, laid down the principle that each member must be, to begin with, a socialist.
+
+A consistent anarchist must oppose private ownership of the means of production and the wage slavery which is a component of this system, as incompatible with the principle that labour must be freely undertaken and under the control of the producer. As Marx put it, socialists look forward to a society in which labour will "become not only a means of life, but also the highest want in life,"¹⁶ an impossibility when the worker is driven by external authority or need rather than inner impulse: "no form of wage-labor, even though one may be less obnoxious that another, can do away with the misery of wage-labor itself."¹⁷ A consistent anarchist must oppose not only alienated labour but also the stupefying specialisation of labour that takes place when the means for developing production
+
+> mutilate the worker into a fragment of a human being, degrade him to become a mere appurtenance of the machine, make his work such a torment that its essential meaning is destroyed; estrange from him the intellectual potentialities of the labor process in very proportion to the extent to which science is incorporated into it as an independent power…¹⁸
+
+Marx saw this not as an inevitable concomitant of industrialisation, but rather as a feature of capitalist relations of production. The society of the future must be concerned to "replace the detail-worker of today…reduced to a mere fragment of a man, by the fully developed individual, fit for a variety of labours…to whom the different social functions…are but so many modes of giving free scope to his own natural powers."¹⁹ The prerequisite is the abolition of capital and wage labour as social categories (not to speak of the industrial armies of the "labour state" or the various modern forms of totalitarianism since capitalism). The reduction of man to an appurtenance of the machine, a specialised tool of production, might in principle be overcome, rather than enhanced, with the proper development and use of technology, but not under the conditions of autocratic control of production by those who make man an instrument to serve their ends, overlooking his individual purposes, in Humboldt's phrase.
+
+Anarchosyndicalists sought, even under capitalism, to create "free associations of free producers" that would engage in militant struggle and prepare to take over the organisation of production on a democratic basis. These associations would serve as "a practical school of anarchism."²⁰ If private ownership of the means of production is, in Proudhon's often quoted phrase, merely a form of "theft" — "the exploitation of the weak by the strong"²¹ — control of production by a state bureaucracy, no matter how benevolent its intentions, also does not create the conditions under which labour, manual and intellectual, can become the highest want in life. Both, then, must be overcome.
+
+In his attack on the right of private or bureaucratic control over the means of production, the anarchist takes his stand with those who struggle to bring about "the third and last emancipatory phase of history," the first having made serfs out of slaves, the second having made wage earners out of serfs, and the third which abolishes the proletariat in a final act of liberation that places control over the economy in the hands of free and voluntary associations of producers (Fourier, 1848).²² The imminent danger to "civilisation" was noted by de Tocqueville, also in 1848:
+
+> As long as the right of property was the origin and groundwork of many other rights, it was easily defended — or rather it was not attacked; it was then the citadel of society while all the other rights were its outworks; it did not bear the brunt of attack and, indeed, there was no serious attempt to assail it. But today, when the right of property is regarded as the last undestroyed remnant of the aristocratic world, when it alone is left standing, the sole privilege in an equalized society, it is a different matter. Consider what is happening in the hearts of the working-classes, although I admit they are quiet as yet. It is true that they are less inflamed than formerly by political passions properly speaking; but do you not see that their passions, far from being political, have become social? Do you not see that, little by little, ideas and opinions are spreading amongst them which aim not merely at removing such and such laws, such a ministry or such a government, but at breaking up the very foundations of society itself?²³
+
+The workers of Paris, in 1871, broke the silence, and proceeded
+
+> to abolish property, the basis of all civilization! Yes, gentlemen, the Commune intended to abolish that class property which makes the labor of the many the wealth of the few. It aimed at the expropriation of the expropriators. It wanted to make individual property a truth by transforming the means of production, land and capital, now chiefly the means of enslaving and exploiting labor, into mere instruments of free and associated labor.²⁴
+
+The Commune, of course, was drowned in blood. The nature of the "civilisation" that the workers of Paris sought to overcome in their attack on "the very foundations of society itself" was revealed, once again, when the troops of the Versailles government reconquered Paris from its population. As Marx wrote, bitterly but accurately:
+
+> The civilization and justice of bourgeois order comes out in its lurid light whenever the slaves and drudges of that order rise against their masters. Then this civilization and justice stand forth as undisguised savagery and lawless revenge…the infernal deeds of the soldiery reflect the innate spirit of that civilization of which they are the mercenary vindicators….The bourgeoisie of the whole world, which looks complacently upon the wholesale massacre after the battle, is convulsed by horror at the destruction of brick and mortar.
+
+Despite the violent destruction of the Commune, Bakunin wrote that Paris opens a new era, "that of the definitive and complete emancipation of the popular masses and their future true solidarity, across and despite state boundaries…the next revolution of man, international in solidarity, will be the resurrection of Paris" — a revolution that the world still awaits.
+
+The consistent anarchist, then, should be a socialist, but a socialist of a particular sort. He will not only oppose alienated and specialised labour and look forward to the appropriation of capital by the whole body of workers, but he will also insist that this appropriation be direct, not exercised by some elite force acting in the name of the proletariat. He will, in short, oppose
+
+> the organization of production by the Government. It means State-socialism, the command of the State officials over production and the command of managers, scientists, shop-officials in the shop….The goal of the working class is liberation from exploitation. This goal is not reached and cannot be reached by a new directing and governing class substituting itself for the bourgeoisie. It is only realized by the workers themselves being master over production.
+
+These remarks are taken from "Five Theses on the Class Struggle" by the left-wing Marxist Anton Pannekoek, one of the outstanding left theorists of the council communist movement. And in fact, radical Marxism merges with anarchist currents.
+
+As a further illustration, consider the following characterisation of "revolutionary Socialism":
+
+> The revolutionary Socialist denies that State ownership can end in anything other than a bureaucratic despotism. We have seen why the State cannot democratically control industry. Industry can only be democratically owned and controlled by the workers electing directly from their own ranks industrial administrative committees. Socialism will be fundamentally an industrial system; its constituencies will be of an industrial character. Thus those carrying on the social activities and industries of society will be directly represented in the local and central councils of social administration. In this way the powers of such delegates will flow upwards from those carrying on the work and conversant with the needs of the community. When the central administrative industrial committee meets it will represent every phase of social activity. Hence the capitalist political or geographical state will be replaced by the industrial administrative committee of Socialism. The transition from the one social system to the other will be the social revolution. The political State throughout history has meant the government of men by ruling classes; the Republic of Socialism will be the government of industry administered on behalf of the whole community. The former meant the economic and political subjection of the many; the latter will mean the economic freedom of all — it will be, therefore, a true democracy.
+
+This programmatic statement appears in William Paul's *The State, its Origins and Functions*, written in early 1917 — shortly before Lenin's *State and Revolution*, perhaps his most libertarian work. Paul was a member of the Marxist-De Leonist Socialist Labor Party and later one of the founders of the British Communist Party.²⁵ His critique of state socialism resembles the libertarian doctrine of the anarchists in its principle that since state ownership and management will lead to bureaucratic despotism, the social revolution must replace it by the industrial organisation of society with direct workers' control. Many similar statements can be cited.
+
+What is far more important is that these ideas have been realised in spontaneous revolutionary action, for example in Germany and Italy after World War I and in Spain (not only in the agricultural countryside, but also in industrial Barcelona) in 1936. One might argue that some form of council communism is the natural form of revolutionary socialism in an industrial society. It reflects the intuitive understanding that democracy is severely limited when the industrial system is controlled by any form of autocratic elite, whether of owners, managers and technocrats, a "vanguard" party, or a state bureaucracy. Under these conditions of authoritarian domination the classical libertarian ideals developed further by Marx and Bakunin and all true revolutionaries cannot be realised; man will not be free to develop his own potentialities to their fullest, and the producer will remain "a fragment of a human being," degraded, a tool in the productive process directed from above.
+
+The phrase "spontaneous revolutionary action" can be misleading. The anarchosyndicalists, at least, took very seriously Bakunin's remark that the workers' organisations must create "not only the ideas but also the facts of the future itself" in the pre-revolutionary period. The accomplishments of the popular revolution in Spain, in particular, were based on the patient work of many years of organisation and education, one component of a long tradition of commitment and militancy. The resolutions of the Madrid Congress of June 1931 and the Saragossa Congress in May 1936 foreshadowed in many ways the acts of the revolution, as did the somewhat different ideas sketched by Santillan in his fairly specific account of the social and economic organisation to be instituted by the revolution. Guérin writes "The Spanish revolution was relatively mature in the minds of libertarian thinkers, as in the popular consciousness." And workers' organisations existed with the structure, the experience, and the understanding to undertake the task of social reconstruction when, with the Franco coup, the turmoil of early 1936 exploded into social revolution. In his introduction to a collection of documents on collectivisation in Spain, the anarchist Augustin Souchy writes:
+
+> For many years, the anarchists and the syndicalists of Spain considered their supreme task to be the social transformation of the society. In their assemblies of Syndicates and groups, in their journals, their brochures and books, the problem of the social revolution was discussed incessantly and in a systematic fashion.²⁶
+
+All of this lies behind the spontaneous achievements, the constructive work of the Spanish Revolution.
+
+The ideas of libertarian socialism, in the sense described, have been submerged in the industrial societies of the past half-century. The dominant ideologies have been those of state socialism or state capitalism (of increasingly militarised character in the United States, for reasons that are not obscure).²⁷ But there has been a rekindling of interest in the past few years. The theses I quoted by Anton Pannekoek were taken from a recent pamphlet of a radical French workers' group (Informations Correspondance Ouvrière). The remarks by William Paul on revolutionary socialism are cited in a paper by Walter Kendall given at the National Conference on Workers' Control in Sheffield, England, in March 1969. The workers' control movement has become a significant force in England in the past few years. It has organised several conferences and has produced a substantial pamphlet literature, and counts among its active adherents representatives of some of the most important trade unions. The Amalgamated Engineering and Foundryworkers' Union, for example, has adopted, as official policy, the programme of nationalisation of basic industries under "workers' control at all levels."²⁸ On the Continent, there are similar developments. May 1968 of course accelerated the growing interest in council communism and related ideas in France and Germany, as it did in England.
+
+Given the highly conservative cast of our highly ideological society, it is not too surprising that the United States has been relatively untouched by these developments. But that too may change. The erosion of cold-war mythology at least makes it possible to raise these questions in fairly broad circles. If the present wave of repression can be beaten back, if the left can overcome its more suicidal tendencies and build upon what has been accomplished in the past decade, then the problem of how to organise industrial society on truly democratic lines, with democratic control in the workplace and in the community, should become a dominant intellectual issue for those who are alive to the problems of contemporary society, and, as a mass movement for libertarian socialism develops, speculation should proceed to action.
+
+In his manifesto of 1865, Bakunin predicted that one element in the social revolution will be "that intelligent and truly noble part of youth which, though belonging by birth to the privileged classes, in its generous convictions and ardent aspirations, adopts the cause of the people." Perhaps in the rise of the student movement of the 1960s one sees steps towards a fulfilment of this prophecy.
+
+Daniel Guérin has undertaken what he has described as a "process of rehabilitation" of anarchism. He argues, convincingly I believe, that "the constructive ideas of anarchism retain their vitality, that they may, when re-examined and sifted, assist contemporary socialist thought to undertake a new departure…[and] contribute to enriching Marxism."²⁹ From the "broad back" of anarchism he has selected for more intensive scrutiny those ideas and actions that can be described as libertarian socialist. This is natural and proper. This framework accommodates the major anarchist spokesmen as well as the mass actions that have been animated by anarchist sentiments and ideals. Guérin is concerned not only with anarchist thought but also with the spontaneous actions of popular revolutionary struggle. He is concerned with social as well as intellectual creativity. Furthermore, he attempts to draw from the constructive achievements of the past lessons that will enrich the theory of social liberation. For those who wish not only to understand the world, but also to change it, this is the proper way to study the history of anarchism.
+
+Guérin describes the anarchism of the nineteenth century as essentially doctrinal, while the twentieth century, for the anarchists, has been a time of "revolutionary practice."³⁰ *Anarchism* reflects that judgement. His interpretation of anarchism consciously points toward the future. Arthur Rosenberg once pointed out that popular revolutions characteristically seek to replace "a feudal or centralized authority ruling by force" with some form of communal system which "implies the destruction and disappearance of the old form of State." Such a system will be either socialist or an "extreme form of democracy…[which is] the preliminary condition for Socialism inasmuch as Socialism can only be realized in a world enjoying the highest possible measure of individual freedom." This ideal, he notes, was common to Marx and the anarchists.³¹ This natural struggle for liberation runs counter to the prevailing tendency towards centralisation in economic and political life.
+
+A century ago Marx wrote that the workers of Paris "felt there was but one alternative — the Commune, or the empire — under whatever name it might reappear."
+
+> The empire had ruined them economically by the havoc it made of public wealth, by the wholesale financial swindling it fostered, by the props it lent to the artificially accelerated centralization of capital, and the concomitant expropriation of their own ranks. It had suppressed them politically, it had shocked them morally by its orgies, it had insulted their Voltairianism by handing over the education of their children to the frères Ignorantins, it had revolted their national feeling as Frenchmen by precipitating them headlong into a war which left only one equivalent for the ruins it made — the disappearance of the empire.³²
+
+The miserable Second Empire "was the only form of government possible at a time when the bourgeoisie had already lost, and the working class had not yet acquired, the faculty of ruling the nation."
+
+It is not very difficult to rephrase these remarks so that they become appropriate to the imperial systems of 1970. The problem of "freeing man from the curse of economic exploitation and political and social enslavement" remains the problem of our time. As long as this is so, the doctrines and the revolutionary practice of libertarian socialism will serve as an inspiration and guide.
+
+---
+
+### Notes
+
+¹ Octave Mirbeau, quoted in James Joll, *The Anarchists*, pp. 145–6.
+
+² Rudolf Rocker, *Anarchosyndicalism*, p. 31.
+
+³ Cited by Rocker, ibid., p. 77. This quotation and that in the next sentence are from Michael Bakunin, "The Program of the Alliance," in Sam Dolgoff, ed. and trans., *Bakunin on Anarchy*, p. 255.
+
+⁴ Diego Abad de Santillan, *After the Revolution*, p. 86.
+
+⁵ Cited by Robert C. Tucker, *The Marxian Revolutionary Idea*.
+
+⁶ Bakunin, in a letter to Herzen and Ogareff, 1866. Cited by Daniel Guérin, *Jeunesse du socialisme libertaire*, p. 119.
+
+⁷ Fernand Pelloutier, cited in Joll, *Anarchists*. The source is "L'Anarchisme et les syndicats ouvriers," *Les Temps nouveaux*, 1895.
+
+⁸ Martin Buber, *Paths in Utopia*, p. 127.
+
+⁹ "No state, however democratic," Bakunin wrote, "not even the reddest republic — can ever give the people what they really want, i.e., the free self-organization and administration of their own affairs from the bottom upward, without any interference or violence from above, because every state, even the pseudo-People's State concocted by Mr. Marx, is in essence only a machine ruling the masses from above, from a privileged minority of conceited intellectuals, who imagine that they know what the people need and want better than do the people themselves…." (*Statism and Anarchy* [1873], in Dolgoff, *Bakunin on Anarchy*, p. 338.)
+
+¹⁰ On Lenin's "intellectual deviation" to the left during 1917, see Robert Vincent Daniels, "The State and Revolution: a Case Study in the Genesis and Transformation of Communist Ideology," *American Slavic and East European Review*, vol. 12, no. 1 (1953).
+
+¹¹ Paul Mattick, *Marx and Keynes*, p. 295.
+
+¹² Michael Bakunin, "La Commune de Paris et la notion de l'état," reprinted in Guérin, *Ni Dieu, ni Maître*.
+
+¹³ Shlomo Avineri, *The Social and Political Thought of Karl Marx*, p. 142.
+
+¹⁴ Rocker, *Anarchosyndicalism*, p. 28.
+
+¹⁵ See Guérin's works cited earlier.
+
+¹⁶ Karl Marx, *Critique of the Gotha Programme*.
+
+¹⁷ Karl Marx, *Grundrisse der Kritik der Politischen Ökonomie*, cited by Mattick, *Marx and Keynes*, p. 306.
+
+¹⁸ Karl Marx, *Capital*, quoted by Robert Tucker, *The Marxian Revolutionary Idea*.
+
+¹⁹ Marx, *Capital*, cited by Avineri, *Social and Political Thought of Marx*, p. 83.
+
+²⁰ Pelloutier, "L'Anarchisme."
+
+²¹ "Qu'est-ce que la propriété?"
+
+²² Cited in Buber, *Paths in Utopia*, p. 19.
+
+²³ Cited in J. Hampden Jackson, *Marx, Proudhon and European Socialism*, p. 60.
+
+²⁴ Karl Marx, *The Civil War in France*, p. 24.
+
+²⁵ For some background, see Walter Kendall, *The Revolutionary Movement in Britain*.
+
+²⁶ *Collectivisations: L'Oeuvre constructive de la Révolution espagnole*, p. 8.
+
+²⁷ For discussion, see Mattick, *Marx and Keynes*, and Michael Kidron, *Western Capitalism Since the War*.
+
+²⁸ See Hugh Scanlon, *The Way Forward for Workers' Control*.
+
+²⁹ Guérin, *Ni Dieu, ni Maître*, introduction.
+
+³⁰ Ibid.
+
+³¹ Arthur Rosenberg, *A History of Bolshevism*, p. 88.
+
+³² Marx, *Civil War in France*, pp. 62–3.
