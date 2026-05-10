@@ -284,7 +284,7 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ### Notes
 
-¹ Cited in Paul Avrich, _The Russian Anarchists_ (Princeton, N.J., Princeton University Press, 1967), pp. 93–94.
+¹ Cited in Paul Avrich, _The Russian Anarchists_ (Princeton, N.J., Princeton University Press, 1967), pp. 93--94.
 
 ² Albert Parry has suggested that there are important similarities between the emergence of a scientific elite in the Soviet Union and the United States, in their growing role in decision-making, citing Bell's thesis in support. See the _New York Times_, March 27, 1966.
 
@@ -292,23 +292,23 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ⁴ Rosa Luxemburg, _The Russian Revolution_, trans. Bertram D. Wolfe (Ann Arbor: University of Michigan Press, 1961), p. 71.
 
-⁵ Luxemburg, cited by Guérin, _Jeunesse du socialisme libertaire_, pp. 106–7.
+⁵ Luxemburg, cited by Guérin, _Jeunesse du socialisme libertaire_, pp. 106--7.
 
 ⁶ _Leninism or Marxism_, in Luxemburg, op. cit., p. 102.
 
 ⁷ For a very enlightening study of this matter, emphasising domestic issues, see Michael Paul Rogin, _The Intellectuals and McCarthy: The Radical Specter_ (Cambridge, Mass.: MIT Press, 1967).
 
-⁸ _The Spanish Republic and the Civil War: 1931–1939_ (Princeton, N.J.: Princeton University Press, 1965).
+⁸ _The Spanish Republic and the Civil War: 1931--1939_ (Princeton, N.J.: Princeton University Press, 1965).
 
 ⁹ Respectively, president of the Republic, prime minister from May until the Franco insurrection, and member of the conservative wing of the Popular Front selected by Azaña to try to set up a compromise government after the insurrection.
 
 ¹⁰ It is interesting that Douglas Pike's very hostile account of the National Liberation Front emphasises the popular and voluntary element in its striking organisational successes. What he describes, whether accurately or not one cannot tell, is a structure of interlocking self-help organisations, loosely coordinated and developed through persuasion rather than force.
 
-¹¹ "The Spanish Background," _New Left Review_, no. 40 (November–December 1966), pp. 85–90.
+¹¹ "The Spanish Background," _New Left Review_, no. 40 (November--December 1966), pp. 85--90.
 
-¹² Jose Peirats, _La C.N.T. en la revolución española_, 3 vols. (Toulouse: Ediciones C.N.T., 1951–52).
+¹² Jose Peirats, _La C.N.T. en la revolución española_, 3 vols. (Toulouse: Ediciones C.N.T., 1951--52).
 
-¹³ An exception to the rather general failure to deal with the anarchist revolution is Hugh Thomas' "Anarchist Agrarian Collectives in the Spanish Civil War," in Martin Gilbert, ed., _A Century of Conflict, 1850–1950: Essays for A. J. P. Taylor_ (New York: Atheneum Publishers, 1967), pp. 245–63.
+¹³ An exception to the rather general failure to deal with the anarchist revolution is Hugh Thomas' "Anarchist Agrarian Collectives in the Spanish Civil War," in Martin Gilbert, ed., _A Century of Conflict, 1850--1950: Essays for A. J. P. Taylor_ (New York: Atheneum Publishers, 1967), pp. 245--63.
 
 ¹⁴ _Collectivisations: l'oeuvre constructive de la Revolution espagnole_, 2nd ed. (Toulouse: Editions C.N.T., 1965).
 
@@ -328,7 +328,7 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ²² Ibid., p. 194.
 
-²³ For some details, see Vernon Richards, _Lessons of the Spanish Revolution_ (London: Freedom Press, 1953), pp. 83–88.
+²³ For some details, see Vernon Richards, _Lessons of the Spanish Revolution_ (London: Freedom Press, 1953), pp. 83--88.
 
 ²⁴ For a moving eyewitness account, see George Orwell, _Homage to Catalonia_ (1938; reprinted Boston: Beacon Press, 1955).
 
@@ -338,13 +338,13 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ²⁷ Ibid., p. 35.
 
-²⁸ Op. cit., pp. 322–4.
+²⁸ Op. cit., pp. 322--4.
 
-²⁹ Borkenau, op. cit., pp. 289–92.
+²⁹ Borkenau, op. cit., pp. 289--92.
 
-³⁰ Op. cit., pp. 143–44.
+³⁰ Op. cit., pp. 143--44.
 
-³¹ Cited by Rosenberg, op. cit., pp. 168–69.
+³¹ Cited by Rosenberg, op. cit., pp. 168--69.
 
 ³² Bolloten, op. cit., p. 84.
 
@@ -354,7 +354,7 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ³⁵ Correspondence from Companys to Prieto, 1939.
 
-³⁶ Quoted in Richards, op. cit., pp. 46–47.
+³⁶ Quoted in Richards, op. cit., pp. 46--47.
 
 ³⁷ Ibid.
 
@@ -370,13 +370,13 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ⁴³ Ibid., p. 184.
 
-⁴⁴ Orwell, op. cit., pp. 109–11.
+⁴⁴ Orwell, op. cit., pp. 109--11.
 
 ⁴⁵ See Bolloten, op. cit., p. 74.
 
-⁴⁶ Borkenau, op. cit., pp. 219–20.
+⁴⁶ Borkenau, op. cit., pp. 219--20.
 
-⁴⁷ Jesus Hernandez and Juan Comorera, _Spain Organises for Victory_ (London: Communist Party of Great Britain, n.d.), cited by Richards, op. cit., pp. 99–100.
+⁴⁷ Jesus Hernandez and Juan Comorera, _Spain Organises for Victory_ (London: Communist Party of Great Britain, n.d.), cited by Richards, op. cit., pp. 99--100.
 
 ⁴⁸ Broué and Témime, op. cit., p. 266.
 
@@ -384,9 +384,9 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ⁵⁰ The anarchist mayor of the border town of Puigcerdà had been assassinated in April. Berneri himself was murdered during the May Days (arrested on May 5 by Communist-controlled police, shot during the following night). Hugh Thomas, in _The Spanish Civil War_, p. 428, suggests that "the assassins may have been Italian Communists" rather than the police.
 
-⁵¹ According to Orwell (op. cit., pp. 153–54), "A British cruiser and two British destroyers had closed in upon the harbour."
+⁵¹ According to Orwell (op. cit., pp. 153--54), "A British cruiser and two British destroyers had closed in upon the harbour."
 
-⁵² Orwell, op. cit., pp. 143–44.
+⁵² Orwell, op. cit., pp. 143--44.
 
 ⁵³ _Controversy_, August 1937, cited by Morrow, p. 173.
 
@@ -400,13 +400,13 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ⁵⁸ Broué and Témime cite the socialists Alardo Prats, Fenner Brockway, and Carlo Rosselli.
 
-⁵⁹ Cited by Richards, op. cit., pp. 76–81.
+⁵⁹ Cited by Richards, op. cit., pp. 76--81.
 
 ⁶⁰ See Hugh Thomas, "Anarchist Agrarian Collectives in the Spanish Civil War."
 
 ⁶¹ Bolloten, op. cit., p. 195.
 
-⁶² Regarding Bolloten's work, Jackson has this to say: "Throughout the present chapter, I have drawn heavily on this carefully documented study of the Communist Party in 1936–37. It is unrivaled in its coverage of the wartime press, of which Bolloten, himself a UP correspondent in Spain, made a large collection" (p. 363 n.).
+⁶² Regarding Bolloten's work, Jackson has this to say: "Throughout the present chapter, I have drawn heavily on this carefully documented study of the Communist Party in 1936--37. It is unrivaled in its coverage of the wartime press, of which Bolloten, himself a UP correspondent in Spain, made a large collection" (p. 363 n.).
 
 ⁶³ See note 18.
 
@@ -436,13 +436,13 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ⁷⁶ Cited in Rocker, _The Tragedy of Spain_, p. 37.
 
-⁷⁷ Liston M. Oak, "Balance Sheet of the Spanish Revolution," _Socialist Review_, vol. 6 (September 1937), pp. 7–9, 26.
+⁷⁷ Liston M. Oak, "Balance Sheet of the Spanish Revolution," _Socialist Review_, vol. 6 (September 1937), pp. 7--9, 26.
 
 ⁷⁸ As far as the East is concerned, Rocker (_The Tragedy of Spain_, p. 25) claims that "the Russian press, for reasons that are easily understood, never uttered one least little word about the efforts of the Spanish workers and peasants at social reconstruction."
 
 ⁷⁹ See Patricia A. M. Van der Esch, _Prelude to War_ (The Hague: Martinus Nijhoff, 1951), p. 47.
 
-⁸⁰ See Dante A. Puzzo, _Spain and the Great Powers: 1936–1941_ (New York: Columbia University Press, 1962), pp. 86 ff.
+⁸⁰ See Dante A. Puzzo, _Spain and the Great Powers: 1936--1941_ (New York: Columbia University Press, 1962), pp. 86 ff.
 
 ⁸¹ Jules Sauerwein, dispatch to the _New York Times_ dated July 26. Cited by Puzzo, op. cit., p. 84.
 
@@ -450,7 +450,7 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ⁸³ As reported by Herschel V. Johnson of the American embassy in London; cited by Puzzo, op. cit., p. 100.
 
-⁸⁴ See Broué and Témime, op. cit., pp. 288–89.
+⁸⁴ See Broué and Témime, op. cit., pp. 288--89.
 
 ⁸⁵ Cited by Thomas, _The Spanish Civil War_, p. 531, no. 3.
 
@@ -458,7 +458,7 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ⁸⁷ Ibid., p. 147.
 
-⁸⁸ Cf. Puzzo, op. cit., pp. 147–48.
+⁸⁸ Cf. Puzzo, op. cit., pp. 147--48.
 
 ⁸⁹ Ibid., p. 212.
 
@@ -468,9 +468,9 @@ Why should a liberal intellectual be so persuaded of the virtues of a political 
 
 ⁹² Puzzo, op. cit., pp. 151 ff.
 
-⁹³ Ibid., pp. 154–55.
+⁹³ Ibid., pp. 154--55.
 
-⁹⁴ For some references, see Allen Guttmann, _The Wound in the Heart: America and the Spanish Civil War_ (New York: Free Press, 1962), pp. 137–38.
+⁹⁴ For some references, see Allen Guttmann, _The Wound in the Heart: America and the Spanish Civil War_ (New York: Free Press, 1962), pp. 137--38.
 
 ⁹⁵ Puzzo, op. cit., p. 160.
 
